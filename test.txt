@@ -1,3 +1,2 @@
-Hello
-130122. 
-SCM Practical
+Hello test.txt
+22198
